@@ -1,0 +1,11 @@
+{
+  "name": "artillery-equality-K2",
+  "version": "2.2.0",
+  "title": "Artillery Equality for Krastorio 2",
+  "author": "MrSleeper",
+  "description": "Fork of Artillery Equality mod to support Krastorio 2, and likely any other mods that make changes to the stats of vanilla artillery",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base"
+  ]
+}

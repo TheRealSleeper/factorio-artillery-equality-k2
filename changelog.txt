@@ -1,0 +1,29 @@
+Version: 2.2.0
+Date: 2026.09.26
+  Changes:
+    - Updated to support overhaul mods which make modifications to stats of vanilla artillery
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026.06.23
+  Changes:
+    - Updated to be compatible with Factorio v2.1
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2024.10.21
+  Changes:
+    - Marked as compatible with Factorio v2.0
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020.11.26
+  Changes:
+    - Marked as compatible with Factorio v1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020.08.23
+  Changes:
+    - Added mod option (startup tab) to customize auto fire range as a % of manual fire range (default 100%; base game is 40%)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020.07.04
+  Info:
+    - Initial release
